@@ -1,6 +1,6 @@
 ### Assalamu'Alaikum wa rahmatullahi wa barakatuh 👋
 
-I'm **Mohammad Kamrul Hasan**, a student from Dhaka, Bangladesh. These days I'm going deepest on **embedded systems and AI**, but I like building across the whole stack, from x64 assembly to production ML pipelines.
+I'm **Mohammad Kamrul Hasan**, a student from Dhaka, Bangladesh. These days I'm into **embedded systems and AI**, but I like building across the whole stack, from x64 assembly to production ML pipelines.
 
 - 🔌 **Embedded (current focus):** working through FreeRTOS, I2C, PWM, and displays on an ESP32-S3. The end goal is running my own decision model on the microcontroller. Progress lives in [embedded_eng_journey](https://github.com/Kamrulhasan12345/embedded_eng_journey)
 - 🧠 **AI / ML:** edge inference, computer vision, forecasting, and semantic search
